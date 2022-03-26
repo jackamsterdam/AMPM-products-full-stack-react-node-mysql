@@ -1,0 +1,12 @@
+.ProductsList > table  {
+	margin: 10px auto;
+}
+
+
+.ProductsList > table, .ProductsList  th , .ProductsList  td   {
+	border: 1px solid black;
+}
+
+.ProductsList select {
+    margin-top: 10px;
+}
